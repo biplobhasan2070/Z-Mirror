@@ -1175,7 +1175,7 @@ if GDRIVE_ID:
     drives_ids.append(GDRIVE_ID)
     index_urls.append(INDEX_URL)
 
-KEY = ("@Z_Mirror")
+KEY = ("bakaneko")
 
 if ospath.exists("list_drives.txt"):
     with open(
